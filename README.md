@@ -17,7 +17,7 @@ This project analyzes electronic store sales and customer data to uncover purcha
 - Track seasonal trends in AOV to evaluate promotional effectiveness
 - Apply SQL and Power BI for data cleaning and analysis, and leverage Power BI to develop interactive reports and visualizations
 
-## Dataset
+## Data Description
 
 - Data source : [Kaggle](https://www.kaggle.com/datasets/cameronseamons/electronic-sales-sep2023-sep2024)
 - Rows : 20,000
