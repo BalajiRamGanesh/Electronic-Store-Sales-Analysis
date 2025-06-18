@@ -42,7 +42,7 @@ This project analyzes electronic store sales and customer data to uncover purcha
 
 The Add-Ons table is created from the Electronic Sales table.
 
-## Insights
+## Key Insights
 
 - The store recorded total sales revenue of $43.47 million from 73,650 units sold across 13,432 orders, resulting in an average order value (AOV) of $3,240. However, the store also experienced a loss of $21.38 million in sales, with 6,568 cancelled orders, a cancelled quantity of 36,061 units, and a lost AOV of $3,260.
 - Smartphones generated the highest revenue of $14 million and recorded the highest number of orders at 4,004.
