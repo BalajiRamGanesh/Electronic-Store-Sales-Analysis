@@ -1,9 +1,5 @@
 # Electronic Store: Sales and Customer Purchase Analysis
 
-![Electronic Store Sales Dashoard](https://github.com/BalajiRamGanesh/Electronic-Store-Sales-Dashboard/blob/main/Images/Sales%20Dashboard.png?raw=true)
-
-![Electronic Store Customer Purchase Behaviour Dashboard](https://github.com/BalajiRamGanesh/Electronic-Store-Sales-Dashboard/blob/main/Images/Purchase%20Behaviour%20Dashboard.png?raw=true)
-
 ## Overview
 
 This project analyzes electronic store sales and customer data to uncover purchasing patterns, evaluate product performance, and measure the impact of loyalty programs and customer demographics on overall sales.
@@ -41,6 +37,12 @@ This project analyzes electronic store sales and customer data to uncover purcha
 ![Data Model](https://github.com/BalajiRamGanesh/Electronic-Store-Sales-Dashboard/blob/main/Images/Data%20Model.png?raw=true)
 
 The Add-Ons table is created from the Electronic Sales table.
+
+## Dashboard Preview
+
+![Electronic Store Sales Dashoard](https://github.com/BalajiRamGanesh/Electronic-Store-Sales-Dashboard/blob/main/Images/Sales%20Dashboard.png?raw=true)
+
+![Electronic Store Customer Purchase Behaviour Dashboard](https://github.com/BalajiRamGanesh/Electronic-Store-Sales-Dashboard/blob/main/Images/Purchase%20Behaviour%20Dashboard.png?raw=true)
 
 ## Key Insights
 
